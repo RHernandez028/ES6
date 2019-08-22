@@ -18,3 +18,7 @@ const testVar = (params) => {
 testVar();
 
 console.log(`END Logged: ${a}`);
+
+
+
+
